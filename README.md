@@ -3,14 +3,14 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQEMmG2Wjwhn2g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726428842715?e=1767225600&v=beta&t=_2uOtDGvXol1REq0YZYFIQZ_ciG5jNv16HO-T1dHKx0" alt="banner" style="width:100%; border-radius: 12px;">
 </p>
 
-<div align="center">
+<div align="center" style="font-family: 'Poppins', sans-serif;">
   
 # ꒰(˶• ᴗ •˶)꒱
 
 ### Creative Frontend Developer • Aspiring Full-Stack Developer • UI/UX Enthusiast
 
 <p align="center">
-  <img src="images/Pacman.gif" alt="Pac-Man animation" />
+  <img src="https://raw.githubusercontent.com/KayishaNaidoo/KayishaNaidoo/main/images/Pacman.gif" alt="Pac-Man animation" />
 </p>
 
 </div>
@@ -98,15 +98,6 @@ I like making stuff, and then making it look pretty. I build clean, intuitive in
 
 <div align="center">
 
-
-
 *Enjoy your day*
 
 </div>
-
-
-
-
-
-
-
