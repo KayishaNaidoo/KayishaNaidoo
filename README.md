@@ -10,7 +10,7 @@
 ### Creative Developer • Aspiring Full-Stack Dev • UI/UX Enthusiast
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KayishaNaidoo/KayishaNaidoo/main/images/Pacman.gif" alt="Pac-Man animation" />
+  <img src="https://github.com/KayishaNaidoo/KayishaNaidoo.github.io/blob/main/images/Pacman.gif" alt="Pac-Man animation" />
 </p>
 
 </div>
