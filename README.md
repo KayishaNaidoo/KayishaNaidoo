@@ -96,14 +96,6 @@ I like making stuff, and then making it look pretty. I build clean, intuitive in
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?usernameKayishaNaidoo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="KayishaNaidoo" />
-</p>
-
----
-
 <div align="center">
 
 
