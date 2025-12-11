@@ -23,6 +23,25 @@ I like making stuff, and then making it look pretty. I build clean, intuitive in
 
 ---
 
+## 🎮 Hobbies
+
+- Talking About My Dog („• ֊ •„)੭
+- Origami 𓅯
+- Game development (Unity and prototypes)
+- Blender 
+- Learning new stacks and tackling at new frameworks until they make sense
+
+---
+
+## 🌟 Fun Facts
+
+- I love building things that are functional but still have personality
+- I love Axolotls ᓬ(•̀ - •́)ᕒ
+- I'm a Cancer survivor
+- I love video games, but don't play any competitive ones
+
+---
+
 ## 🔌Connect with Me
 
 <p align="left">
@@ -77,24 +96,6 @@ I like making stuff, and then making it look pretty. I build clean, intuitive in
 
 ---
 
-## 🎮 Hobbies
-
-- Talking About My Dog („• ֊ •„)੭
-- Origami 𓅯
-- Game development (Unity and prototypes)
-- Blender 
-- Learning new stacks and tackling at new frameworks until they make sense
-
----
-
-## 🌟 Fun Facts
-
-- I love building things that are functional but still have personality
-- I love Axolotls ᓬ(•̀ - •́)ᕒ
-- I'm a Cancer survivor
-- I love video games, but don't play any competitive ones
-
----
 
 <div align="center">
 
