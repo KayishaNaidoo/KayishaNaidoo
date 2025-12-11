@@ -7,7 +7,7 @@
   
 # ꒰(˶• ᴗ •˶)꒱
 
-### Creative Frontend Developer • Aspiring Full-Stack Developer • UI/UX Enthusiast
+### Creative Developer • Aspiring Full-Stack Dev • UI/UX Enthusiast
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KayishaNaidoo/KayishaNaidoo/main/images/Pacman.gif" alt="Pac-Man animation" />
