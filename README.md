@@ -19,7 +19,7 @@
 
 ## ✨ About Me
 
-I like making stuff, and then making it look pretty. I build clean, intuitive interfaces that blend creativity with logic. Currently growing into full-stack development while staying true to my design roots. I love creating projects that feel good to use and fun to interact with.
+I like making stuff, and then making it look pretty. Currently growing into full-stack development while staying true to my design roots. I love creating projects that feel good to use and fun to interact with.
 
 ---
 
@@ -27,7 +27,7 @@ I like making stuff, and then making it look pretty. I build clean, intuitive in
 
 - Talking About My Dog („• ֊ •„)੭
 - Origami 𓅯
-- Game development (Unity and prototypes)
+- Game development (Unity Beginner)
 - Blender 
 - Learning new stacks and tackling at new frameworks until they make sense
 
