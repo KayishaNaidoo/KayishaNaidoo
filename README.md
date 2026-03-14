@@ -35,7 +35,7 @@ I like making stuff, and then making it look pretty. Currently growing into full
 - I love building things that are functional but still have personality
 - I love Axolotls ᓬ(•̀ - •́)ᕒ
 - I'm a Cancer survivor
-- I love video games, but don't play any competitive ones
+- I love video games
 
 ---
 
