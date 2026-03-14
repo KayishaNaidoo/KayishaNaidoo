@@ -4,7 +4,7 @@
   
 # ꒰(˶• ᴗ •˶)꒱
 
-### Creative Developer • Aspiring Full-Stack Dev • UI/UX Enthusiast
+### Software Engineer • Axolotl Lover • UI/UX Enthusiast
 
 <p align="center">
   <img src="https://github.com/KayishaNaidoo/KayishaNaidoo.github.io/blob/main/images/Pacman.gif" alt="Pac-Man animation" />
