@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEMmG2Wjwhn2g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726428842715?e=1767225600&v=beta&t=_2uOtDGvXol1REq0YZYFIQZ_ciG5jNv16HO-T1dHKx0" alt="banner" style="width:100%; border-radius: 12px;">
-</p>
+
 
 <div align="center" style="font-family: 'Poppins', sans-serif;">
   
